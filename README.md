@@ -4,8 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replaced with my own)
-- Leaflet Map https://BartWay.github.io/leaflet-maps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1Kpayn1Titf6QIX1g9DKET-KfPehoHFKClG39t2WTEb4/edit#gid=0
+- Leaflet Map https://bartway.github.io/meldingen-kaart
+- Google Sheets template https://docs.google.com/spreadsheets/d/13ON-2amjTg1uOGSO1zMhluD4ewbj8ZAFLR7QwekRqPE/edit#gid=439758703
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
